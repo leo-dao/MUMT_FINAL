@@ -7,7 +7,7 @@ This project is a simple synthesizer used to manipulate a MIDI generated sound w
 The code is linked [here](synthesizer/synthesizer.ino). The code is broken down into 3 parts: setup, loop, and functions. It is fairly self-explanatory, apart from the switch cases that are used to update the values one per pass.
 
 Here is an image of the board:
-![Board](images/ArduinoBoard.png) 
+![Board](images/ArduinoBoard.jpg) 
 Here, the board can be divided in 4 parts:
 1. First potentiometer controls the gain/volume
 2. Second potentiometer controls the lowpass filter
